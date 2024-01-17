@@ -4,7 +4,7 @@ Este repositório contém o código-fonte do projeto **Gestão Parque**, impleme
 
 ## Estrutura do Projeto
 
-\```markdown
+```markdown
 Gestao_Parque.Java
 └── src
     └── main
@@ -16,7 +16,7 @@ Gestao_Parque.Java
                         ├── model
                         ├── repository
                         └── service
-\```
+```
 
 
  
