@@ -36,7 +36,7 @@ Certifique-se de ter o ambiente Java configurado corretamente em sua máquina. V
 
 ```bash
 git clone https://github.com/IBeckzzzz/Gestao_Parque.Java.git
-
+```
 2. Abra o projeto em sua IDE
 3. Execute a aplicação a partir da classe principal.
 
